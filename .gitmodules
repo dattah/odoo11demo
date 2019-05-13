@@ -1,0 +1,4 @@
+[submodule "dattah/odoo-community"]
+	path = dattah/odoo-community
+	url = git@github.com:dattah/odoo-community.git
+	branch = 11.0
